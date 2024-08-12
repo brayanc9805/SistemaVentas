@@ -1,0 +1,137 @@
+Curso de sistema de ventas, BD en SQL Express, Backend asp.net 8, FrontEnd Angular
+1. Creación base de datos
+
+create database TiendaGenerica
+
+use TiendaGenerica
+
+Create table Rol(
+idRol int primary key identity(1,1),
+nombre varchar(50),
+fechaRegistro datetime default getdate()
+)
+
+Create table Menu(
+idMenu int primary key identity(1,1),
+nombre varchar(50),
+icono varchar(50),
+url varchar(50)
+)
+
+Create table MenuRol(
+idMenuRol int primary key identity(1,1),
+idMenu int references Menu(idMenu),
+idRol int references Rol(idRol)
+)
+
+Create table Usuario(
+idUsuario int primary key identity(1,1),
+nombreCompleto varchar(100),
+correo varchar(60),
+idRol int references Rol(idRol),
+clave varchar(200),
+esActivo bit default 1,
+fechaRegistro datetime default getdate()
+)
+
+Create table Categoria(
+idCategoria int primary key identity(1,1),
+nombre varchar(50),
+esActivo bit default 1,
+fechaRegistro datetime default getdate()
+)
+
+Create table Producto(
+idProducto int primary key identity(1,1),
+nombre varchar(50),
+idCategoria int references Categoria(idCategoria),
+stock int,
+precio decimal(10,2),
+esActivo bit default 1,
+fechaRegistro datetime default getdate()
+)
+
+Create table NumeroDocumento(
+idNumeroDocumento int primary key identity(1,1),
+ultimo_Numero int Not null,
+fechaRegistro datetime default getdate()
+)
+
+
+Create table Venta(
+idVenta int primary key identity(1,1),
+numeroDocumento varchar(40),
+tipoPago varchar(50),
+total decimal(10,2),
+fechaRegistro datetime default getdate()
+)
+
+Create table DetalleVenta(
+idDetalleVenta int primary key identity(1,1),
+idVenta int references Venta(idVenta),
+idProducto int references Producto(idProducto),
+cantidad int,
+precio decimal(10,2),
+total decimal(10,2)
+)
+
+2. Crear diagrama base de datos, si no deja poner la siguiente linea para usuario sa
+
+ALTER AUTHORIZATION ON DATABASE::TiendaGenerica TO sa;
+
+3. Crear en bd menu, rol, menuRol e iniciar numeroDocumento en 0
+
+insert into Menu(nombre,icono,url) values
+('DashBoard','dashboard','/pages/dashboard'),
+('Usuarios','group','/pages/usuarios'),
+('Productos','collections_bookmark','/pages/productos'),
+('Venta','currency_exchange','/pages/venta'),
+('Historial Ventas','edit_note','/pages/historial_venta'),
+('Reportes','receipt','/pages/reportes')
+
+select * from Menu
+
+insert into Rol(nombre) values
+('Administrador'),
+('Empleado'),
+('Supervisor')
+
+select * from Rol
+
+insert into MenuRol(idMenu,idRol) values
+(1,1),
+(2,1),
+(3,1),
+(4,1),
+(5,1),
+(6,1)
+
+insert into MenuRol(idMenu,idRol) values
+(4,2),
+(5,2)
+
+insert into MenuRol(idMenu,idRol) values
+(3,3),
+(4,3),
+(5,3),
+(6,3)
+
+select * from MenuRol
+
+insert into NumeroDocumento(ultimo_Numero,fechaRegistro) values
+(0,getdate())
+4. Crear APIRest con ASP.NET
+4.1 Crear proyecto asp.netCore web Api con net8->SV.API
+4.2 Crear capa para datos -> SV.DAL
+4.3 Crear capa de negocios ->SV.BLL
+4.4 Crear capa de modelo o entity ->SV.Model
+4.5 Crear capa de inversion de control, la cual se encarga de separar la inyección de dependencias de la aplicación ->SV.IOC
+4.6 Crear capa DTO, donde se crean clases similares a los modelos, con estas clases se comparte información a la aplicacion->SV.DTO
+4.7 Cre capa Utility,donde se trabaja las utilidades a nivel general del proyecto-> SV.Utility
+
+5. En la capa Modelo es donde se instala EntityFramework
+5.1 Se instala EntityFrameworkCore.SqlServer
+5.2 Se instala EntityFrameworkCore.Tools
+
+6. Ejecutar en Consola el sigueinet comando para poder obtener todas las referencias de la BD dentro de la capa de modelo: Herramientas->AdministradorDePaquetesNuGet->ConsoladeAdministradordePaquetes, en proyecto predeterminado en la consola escoger el del modelo.>SV.Model
+Scaffold-DbContext "server=192.168.51.150; user=sa; password=manager; database=TiendaGenerica; Trusted_Connection=True; TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer

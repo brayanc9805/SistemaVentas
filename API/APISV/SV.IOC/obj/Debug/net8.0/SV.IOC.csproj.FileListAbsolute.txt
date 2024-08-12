@@ -1,0 +1,11 @@
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\bin\Debug\net8.0\SV.IOC.deps.json
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\bin\Debug\net8.0\SV.IOC.dll
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\bin\Debug\net8.0\SV.IOC.pdb
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\obj\Debug\net8.0\SV.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\obj\Debug\net8.0\SV.IOC.AssemblyInfoInputs.cache
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\obj\Debug\net8.0\SV.IOC.AssemblyInfo.cs
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\obj\Debug\net8.0\SV.IOC.csproj.CoreCompileInputs.cache
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\obj\Debug\net8.0\SV.IOC.dll
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\obj\Debug\net8.0\refint\SV.IOC.dll
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\obj\Debug\net8.0\SV.IOC.pdb
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.IOC\obj\Debug\net8.0\ref\SV.IOC.dll

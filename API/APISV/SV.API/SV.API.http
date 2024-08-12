@@ -1,0 +1,6 @@
+@SV.API_HostAddress = http://localhost:5048
+
+GET {{SV.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\bin\Debug\net8.0\SV.BLL.deps.json
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\bin\Debug\net8.0\SV.BLL.dll
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\bin\Debug\net8.0\SV.BLL.pdb
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\obj\Debug\net8.0\SV.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\obj\Debug\net8.0\SV.BLL.AssemblyInfoInputs.cache
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\obj\Debug\net8.0\SV.BLL.AssemblyInfo.cs
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\obj\Debug\net8.0\SV.BLL.csproj.CoreCompileInputs.cache
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\obj\Debug\net8.0\SV.BLL.dll
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\obj\Debug\net8.0\refint\SV.BLL.dll
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\obj\Debug\net8.0\SV.BLL.pdb
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.BLL\obj\Debug\net8.0\ref\SV.BLL.dll

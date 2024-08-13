@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{218B0E9F-F122-41DD-B1FF-1BDE6665B2FF}|SV.Model\\SV.Model.csproj|d:\\formatos brayan\\estudiodesarrollo\\sistemaventas\\api\\apisv\\sv.model\\tiendagenericacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218B0E9F-F122-41DD-B1FF-1BDE6665B2FF}|SV.Model\\SV.Model.csproj|solutionrelative:sv.model\\tiendagenericacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|d:\\formatos brayan\\estudiodesarrollo\\sistemaventas\\api\\apisv\\sv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|solutionrelative:sv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TiendaGenericaContext.cs",
-              "DocumentMoniker": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\TiendaGenericaContext.cs",
-              "RelativeDocumentMoniker": "SV.Model\\TiendaGenericaContext.cs",
-              "ToolTip": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\TiendaGenericaContext.cs",
-              "RelativeToolTip": "SV.Model\\TiendaGenericaContext.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAmwCoAAAAJAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
+              "RelativeDocumentMoniker": "SV.API\\Program.cs",
+              "ToolTip": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
+              "RelativeToolTip": "SV.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T21:04:28.633Z",
+              "WhenOpened": "2024-08-13T20:02:19.687Z",
               "EditorCaption": ""
             }
           ]

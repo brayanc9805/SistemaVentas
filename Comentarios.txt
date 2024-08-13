@@ -135,3 +135,27 @@ insert into NumeroDocumento(ultimo_Numero,fechaRegistro) values
 
 6. Ejecutar en Consola el sigueinet comando para poder obtener todas las referencias de la BD dentro de la capa de modelo: Herramientas->AdministradorDePaquetesNuGet->ConsoladeAdministradordePaquetes, en proyecto predeterminado en la consola escoger el del modelo.>SV.Model
 Scaffold-DbContext "server=192.168.51.150; user=sa; password=manager; database=TiendaGenerica; Trusted_Connection=True; TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer
+
+7. Verificar nombres de modelso creados por el scaffold
+8. En la capa DAL debe estar la representación de la base de datos, por lo que se debe agregar nueva carpeta con nombre "DBContext" y allí copiar la clase "TiendaGenericaContext", cambiar nombre del namespace ->Luego para solucionar errores se hace el using de la capa Model, de la capa model se debe eliminar la clase "TiendaGenericaContext.cs"
+9. Agregar referencia de la capa SV.Model a la capa SV.DAL
+10. Agregar referencias DAL, MODEL, DTO,Utility en la capa BLL->negocio
+11. Agregar referencias BLL, DAL, Utility en capa IOC
+12. Agregar referencias DTO, Model en capa Utility
+13. Agregar referencias BLL,DTO,IOC en capa API
+
+14. Para cadena de conexión: En la clase "TiendagenericaContext.cs" copiar la cadena de conexión, y en la capa API, en el archivo appsettings, crear el atributo connectionStrings y pegarla ahí. dejar las llaves vacias en el metodo OnConfiguring donde estaba la cadena de conexion.
+
+15. Crear clase "Dependencia" en la capa IOC, para la inyeccion de dependencias, cadenas de conexion,etc
+16. Se llama el emtodo creado en la capa IOC para inyectar la cadena y se el envia la configuracion. y se establece la capa API como proyecto de inicio
+17. Si se desea usar swagger y no esta instalado, se debe instalar el paquete Swashbuckle.AspNetCore.SwaggerUI y Swashbuckle.AspNetCore
+https://learn.microsoft.com/es-es/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-8.0&tabs=visual-studio
+19. Crear en la capa Dal carpeta repositorios->Contrato y interface IGenericRepository para interactuar con la informacion de los modelos.
+20. Crear tambien interface IVentaRepository para que esta interfaz se encargue solo de registrar ventas.
+22. Crear en Repositorios clase GenericRepository
+23. Crear en Repositorios clase VentaRepository
+24.Se añade la inyeccion de dependencias de los dos repositorios creados anteriormente en la capa IOC, clase "Dependencia.cs" con services.AddTransient para modelos genéricos y services.AddScope para un modelo específico
+25. Se van a crear clases en la capa DTO, las cuales representan datos del modelo que van a ser publicos que si se van a enviar en la API, con la ayuda de Automapper se convierte los modelos a estas clases DTO, tambien se crean clases DTO para los reportes, login, etc.
+26. Se va a trabajar en capa Utility, se debe instalar paquete nuget "AutoMapper", 
+27. Crear en la capa Utility la clase "AutoMapperProfile.cs", la cual se va a encargar del mapeo de als clases del DTO y del modelo
+28. se añade inyección de dependencia en al capa IOC del automapper creado

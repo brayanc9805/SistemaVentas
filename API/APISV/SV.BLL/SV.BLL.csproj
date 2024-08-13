@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SV.DAL\SV.DAL.csproj" />
+    <ProjectReference Include="..\SV.DTO\SV.DTO.csproj" />
+    <ProjectReference Include="..\SV.Model\SV.Model.csproj" />
+    <ProjectReference Include="..\SV.Utility\SV.Utility.csproj" />
+  </ItemGroup>
+
 </Project>

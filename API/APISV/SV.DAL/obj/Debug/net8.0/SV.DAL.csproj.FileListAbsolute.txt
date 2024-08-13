@@ -1,10 +1,15 @@
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\bin\Debug\net8.0\SV.DAL.deps.json
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\bin\Debug\net8.0\SV.DAL.dll
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\bin\Debug\net8.0\SV.DAL.pdb
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\bin\Debug\net8.0\SV.Model.dll
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\bin\Debug\net8.0\SV.Model.pdb
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\SV.DAL.csproj.AssemblyReference.cache
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\SV.DAL.GeneratedMSBuildEditorConfig.editorconfig
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\SV.DAL.AssemblyInfoInputs.cache
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\SV.DAL.AssemblyInfo.cs
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\SV.DAL.csproj.CoreCompileInputs.cache
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\SV.DAL.sourcelink.json
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\SV.DAL.csproj.Up2Date
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\SV.DAL.dll
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\refint\SV.DAL.dll
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DAL\obj\Debug\net8.0\SV.DAL.pdb

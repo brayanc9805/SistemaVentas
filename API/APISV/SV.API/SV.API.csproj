@@ -6,4 +6,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SV.BLL\SV.BLL.csproj" />
+    <ProjectReference Include="..\SV.DTO\SV.DTO.csproj" />
+    <ProjectReference Include="..\SV.IOC\SV.IOC.csproj" />
+  </ItemGroup>
+
 </Project>

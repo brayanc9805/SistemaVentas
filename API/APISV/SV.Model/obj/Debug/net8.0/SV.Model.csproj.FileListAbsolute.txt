@@ -7,6 +7,7 @@ D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.Model\obj\Debug\
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.Model\obj\Debug\net8.0\SV.Model.AssemblyInfoInputs.cache
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.Model\obj\Debug\net8.0\SV.Model.AssemblyInfo.cs
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.Model\obj\Debug\net8.0\SV.Model.csproj.CoreCompileInputs.cache
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.Model\obj\Debug\net8.0\SV.Model.sourcelink.json
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.Model\obj\Debug\net8.0\SV.Model.dll
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.Model\obj\Debug\net8.0\refint\SV.Model.dll
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.Model\obj\Debug\net8.0\SV.Model.pdb

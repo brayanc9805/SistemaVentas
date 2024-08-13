@@ -5,6 +5,7 @@ D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\ne
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.AssemblyInfoInputs.cache
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.AssemblyInfo.cs
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.csproj.CoreCompileInputs.cache
+D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.sourcelink.json
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.dll
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\refint\SV.DTO.dll
 D:\Formatos Brayan\EstudioDesarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.pdb

@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\",
+  "WorkspaceRootPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|d:\\formatos brayan\\estudiodesarrollo\\sistemaventas\\api\\apisv\\sv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|d:\\documentos\\brayan\\estudio desarrollo\\sistemaventas\\api\\apisv\\sv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|solutionrelative:sv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C939257F-75F8-4303-BF5B-064DC1EC61B0}|SV.IOC\\SV.IOC.csproj|d:\\documentos\\brayan\\estudio desarrollo\\sistemaventas\\api\\apisv\\sv.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C939257F-75F8-4303-BF5B-064DC1EC61B0}|SV.IOC\\SV.IOC.csproj|solutionrelative:sv.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 430,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
               "RelativeDocumentMoniker": "SV.API\\Program.cs",
-              "ToolTip": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
+              "ToolTip": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
               "RelativeToolTip": "SV.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T20:02:19.687Z",
+              "WhenOpened": "2024-08-20T01:10:01.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SV.IOC\\Dependencia.cs",
+              "ToolTip": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SV.IOC\\Dependencia.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:05:15.516Z",
               "EditorCaption": ""
             }
           ]

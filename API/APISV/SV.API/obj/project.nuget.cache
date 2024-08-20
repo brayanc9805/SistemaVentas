@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1g6JSgUVdUXZVHlFfCaNgQCWNOmX3lSHNlv7v+jWPhlz/JI3B0GllfDs4zhJHf3nDpYqhuv9tZIFWXUsygineQ==",
+  "dgSpecHash": "Ax1Z+5yVmBEtWaQ9QfjTHPNSINl1hp0BkB070dHzfojnw8E5Owx1ZXD94o0KM6GMjOg0/a+XttG+N0ePOAT2Sw==",
   "success": true,
-  "projectFilePath": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj",
+  "projectFilePath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\braya\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\braya\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

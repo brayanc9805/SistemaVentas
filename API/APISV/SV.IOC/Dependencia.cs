@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 using SV.DAL.Repositorios.Contrato;
 using SV.DAL.Repositorios;
 using SV.Utility;
+using SV.BLL.Servicios.Contrato;
+using SV.BLL.Servicios;
 namespace SV.IOC
 {
     public static class Dependencia
@@ -29,6 +31,15 @@ namespace SV.IOC
             services.AddScoped<IVentaRepository, VentaRepository>();
             //Se añade dependencia de automapper con todos los mapeos
             services.AddAutoMapper(typeof(AutoMapperProfile));
+
+            //Se añade dependencias de servicios de la capa bll
+            services.AddScoped<IRolService, RolService>();
+            services.AddScoped<IUsuarioService,UsuarioService>();
+            services.AddScoped<ICategoriaService,CategoriaService>();
+            services.AddScoped<IProductoService,ProductoService>();
+            services.AddScoped<IVentaService,VentaService>();
+            services.AddScoped<IDashboardService,DashboardService>();
+            services.AddScoped<IMenuService,MenuService>();
         }
     }
 }

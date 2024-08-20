@@ -158,4 +158,6 @@ https://learn.microsoft.com/es-es/aspnet/core/tutorials/getting-started-with-swa
 25. Se van a crear clases en la capa DTO, las cuales representan datos del modelo que van a ser publicos que si se van a enviar en la API, con la ayuda de Automapper se convierte los modelos a estas clases DTO, tambien se crean clases DTO para los reportes, login, etc.
 26. Se va a trabajar en capa Utility, se debe instalar paquete nuget "AutoMapper", 
 27. Crear en la capa Utility la clase "AutoMapperProfile.cs", la cual se va a encargar del mapeo de als clases del DTO y del modelo
-28. se añade inyección de dependencia en al capa IOC del automapper creado
+28. Se añade inyección de dependencia en la capa IOC del automapper creado
+29. En la capa bll crear carpeta "Servicios" y dentro carpeta "Contrato", crear interfaces en contrato, y en servicios las clases que heredan esas interfaces
+30. Añadir las dependencias de los servicios en la capa IOC

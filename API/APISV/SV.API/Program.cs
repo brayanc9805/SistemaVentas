@@ -4,7 +4,7 @@ namespace SV.API
 {
     public class Program
     {
-        //TODo empezar video 6: https://www.youtube.com/watch?v=yYAX9Yg0lRY&list=PLx2nia7-PgoA1-y-qrxCQii0-EmC4JZ5e&index=6
+        //TODo empezar video 7: https://www.youtube.com/watch?v=I1y0T7fqEZA&list=PLx2nia7-PgoA1-y-qrxCQii0-EmC4JZ5e&index=7
 
         public static void Main(string[] args)
         {
@@ -15,6 +15,17 @@ namespace SV.API
             builder.Services.AddControllers(); 
             //Se pasa configuracion para la cadena de conexion
             builder.Services.InyectarDependencias(builder.Configuration);
+
+            //Activar CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("NuevaPolitica", app => {
+                    app.AllowAnyOrigin()
+                    .AllowAnyHeader()
+                    .AllowAnyMethod();
+                });
+
+            });
             //Para agregar swagger
             builder.Services.AddSwaggerGen();
 
@@ -33,6 +44,10 @@ namespace SV.API
                 });
             }
             // Configure the HTTP request pipeline.
+
+            //Se agrega politica para CORS
+            app.UseCors("NuevaPolitica");
+
 
             app.UseAuthorization();
 

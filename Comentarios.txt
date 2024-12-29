@@ -161,3 +161,16 @@ https://learn.microsoft.com/es-es/aspnet/core/tutorials/getting-started-with-swa
 28. Se añade inyección de dependencia en la capa IOC del automapper creado
 29. En la capa bll crear carpeta "Servicios" y dentro carpeta "Contrato", crear interfaces en contrato, y en servicios las clases que heredan esas interfaces
 30. Añadir las dependencias de los servicios en la capa IOC
+
+31. crear proyecto angular con el comando "ng new nombreProyecto"
+32. Añadir angularMaterial dependiendo la versión de angular instalada, en este caso con el comando en la terminal "ng add @angular/material@16.1.4"
+33. Instalar sweetAlert para alertas personalizadas con "npm install sweetalert2@11.6.16"
+34. Instalar moment, para trabajar con formatos de fechas con "npm install moment@2.29.4 --save"
+35. Instalar moment-material "npm i @angular/material-moment-adapter@16.1.4" teniendo en cuenta que es la misma versión de angular material instalado
+36. Instalar paquete chart.js para realizar graficos con "npm install chart.js@3.9.1"
+37. Instalar paquete xlsx para generar reportes en excel con "npm i xlsx@0.18.5"
+38. Si no existe carpeta environments, generar con "ng generate environments"
+39. Crear interfaces en angular, para recibir los objectos de las APIs, crear carpeta "interfaces" dentro de la carpeta app y crear interfaces con el comando "ng generate interface nombrecarpeta/nombreinterface"
+40. Crear Services en angular para conectar a las APIs, crear carpeta "services" dentro de la carpeta app y crear services con el comando "ng generate service nombrecarpeta/nombreservice"
+41. Crear Module en angular para importar herramientas necesarias, crear carpeta "Reutilizable" dentro de la carpeta app, y crear module con el comando "ng generate module nombrecarpeta/nombremodule"
+42. Crear component en angular, crear carpeta "Components" dentro de la carpeta app, y crear component con el comando "ng generate component nombrecarpeta/nombrecomponent"

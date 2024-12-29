@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HWr122DFUoAknN4TP30MDFiML8AZ+dV0qO87j4K7Wf1G8UEg4+OzuNU/BplQhl2elu3P+ezYKhgF9IoxY9xZ6w==",
+  "dgSpecHash": "+NEBJrtXDIFMTvfeMI/q/QXNhy5UmNKlx+8ZgVEca6ovKUG7hEavGsemVVw5mtJVfH8kwOOYFG/f9dIR7fqJ6g==",
   "success": true,
-  "projectFilePath": "D:\\Formatos Brayan\\EstudioDesarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj",
+  "projectFilePath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\braya\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\braya\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SV.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d626fda2e754d5ecbb47b96c9ad2aa36e4a0765c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89854de5bf5fc17b07935611866a216c7fade6e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SV.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SV.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

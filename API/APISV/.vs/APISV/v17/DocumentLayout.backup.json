@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|h:\\formatos brayan\\proyectos\\sistemaventas\\api\\apisv\\sv.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|solutionrelative:sv.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|h:\\formatos brayan\\proyectos\\sistemaventas\\api\\apisv\\sv.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|solutionrelative:sv.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|h:\\formatos brayan\\proyectos\\sistemaventas\\api\\apisv\\sv.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|solutionrelative:sv.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|h:\\formatos brayan\\proyectos\\sistemaventas\\api\\apisv\\sv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|solutionrelative:sv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 430,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SV.API\\appsettings.json",
+              "ToolTip": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\appsettings.json*",
+              "RelativeToolTip": "SV.API\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T20:40:30.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
+              "RelativeDocumentMoniker": "SV.API\\Program.cs",
+              "ToolTip": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
+              "RelativeToolTip": "SV.API\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:37:52.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "SV.API\\Controllers\\MenuController.cs",
+              "ToolTip": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "SV.API\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:30:40.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SV.API\\Controllers\\ProductoController.cs",
+              "ToolTip": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SV.API\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:04:21.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 354,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

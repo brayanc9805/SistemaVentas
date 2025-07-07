@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "J8RrIMJfkT0Iz+aUjrtIPNAgd6BgWCT1O3Sozb8inGw=",
+  "Hash": "I7412sxU4A+XU0TA/Pmv6rjySKkbceo0vVVaWRnDb9g=",
   "Source": "SV.API",
   "BasePath": "_content/SV.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

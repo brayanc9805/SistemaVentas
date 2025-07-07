@@ -21,7 +21,8 @@ export class UsuarioComponent implements OnInit,AfterViewInit {
   datalistaUsuarios= new MatTableDataSource(this.dataInicio);
   @ViewChild(MatPaginator) paginacionTabla!:MatPaginator;
 
-  constructor(private dialog:MatDialog,
+  constructor(
+    private dialog:MatDialog,
     private _usuarioServicio:UsuarioService,
     private _utilidadServicio:UtilidadService
   ){
@@ -77,7 +78,7 @@ export class UsuarioComponent implements OnInit,AfterViewInit {
 
   eliminarUsuario(usuario:Usuario){
     Swal.fire({
-      title:'¿Desea eliminar el usiario',
+      title:'¿Desea eliminar el usuario',
       text:usuario.nombreCompleto,
       icon:"warning",
       confirmButtonColor:'#3085d6',

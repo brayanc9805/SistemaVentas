@@ -580,7 +580,10 @@
           "SV.Utility": "1.0.0"
         },
         "runtime": {
-          "SV.BLL.dll": {}
+          "SV.BLL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "SV.DAL/1.0.0": {
@@ -588,12 +591,18 @@
           "SV.Model": "1.0.0"
         },
         "runtime": {
-          "SV.DAL.dll": {}
+          "SV.DAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "SV.DTO/1.0.0": {
         "runtime": {
-          "SV.DTO.dll": {}
+          "SV.DTO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "SV.Model/1.0.0": {
@@ -601,7 +610,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
         },
         "runtime": {
-          "SV.Model.dll": {}
+          "SV.Model.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "SV.Utility/1.0.0": {
@@ -611,7 +623,10 @@
           "SV.Model": "1.0.0"
         },
         "runtime": {
-          "SV.Utility.dll": {}
+          "SV.Utility.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

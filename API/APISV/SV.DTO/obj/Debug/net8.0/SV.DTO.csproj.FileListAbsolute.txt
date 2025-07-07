@@ -22,3 +22,15 @@ D:\Documentos\Brayan\Estudio desarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug
 D:\Documentos\Brayan\Estudio desarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\refint\SV.DTO.dll
 D:\Documentos\Brayan\Estudio desarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.pdb
 D:\Documentos\Brayan\Estudio desarrollo\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\ref\SV.DTO.dll
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\bin\Debug\net8.0\SV.DTO.deps.json
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\bin\Debug\net8.0\SV.DTO.dll
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\bin\Debug\net8.0\SV.DTO.pdb
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.GeneratedMSBuildEditorConfig.editorconfig
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.AssemblyInfoInputs.cache
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.AssemblyInfo.cs
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.csproj.CoreCompileInputs.cache
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.sourcelink.json
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.dll
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\refint\SV.DTO.dll
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\SV.DTO.pdb
+H:\Formatos Brayan\Proyectos\SistemaVentas\API\APISV\SV.DTO\obj\Debug\net8.0\ref\SV.DTO.dll

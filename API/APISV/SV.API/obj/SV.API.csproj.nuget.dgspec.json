@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj": {}
+    "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj": {
+    "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj",
+        "projectUniqueName": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj",
         "projectName": "SV.API",
-        "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.API\\obj\\",
+        "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\SV.API.csproj",
+        "packagesPath": "C:\\Users\\Brayan Capera\\.nuget\\packages\\",
+        "outputPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Brayan Capera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj"
               },
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj"
               },
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj"
               }
             }
           }
@@ -54,7 +54,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -88,24 +89,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj": {
+    "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj",
+        "projectUniqueName": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj",
         "projectName": "SV.BLL",
-        "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.BLL\\obj\\",
+        "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj",
+        "packagesPath": "C:\\Users\\Brayan Capera\\.nuget\\packages\\",
+        "outputPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Brayan Capera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,17 +122,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj"
               },
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj"
               },
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj"
               },
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj"
               }
             }
           }
@@ -145,7 +146,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -166,24 +168,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj": {
+    "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj",
+        "projectUniqueName": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj",
         "projectName": "SV.DAL",
-        "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DAL\\obj\\",
+        "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj",
+        "packagesPath": "C:\\Users\\Brayan Capera\\.nuget\\packages\\",
+        "outputPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Brayan Capera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -199,8 +201,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj"
               }
             }
           }
@@ -214,7 +216,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -235,24 +238,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj": {
+    "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj",
+        "projectUniqueName": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj",
         "projectName": "SV.DTO",
-        "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\obj\\",
+        "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj",
+        "packagesPath": "C:\\Users\\Brayan Capera\\.nuget\\packages\\",
+        "outputPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Brayan Capera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -279,7 +282,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -300,24 +304,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj": {
+    "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj",
+        "projectUniqueName": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj",
         "projectName": "SV.IOC",
-        "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.IOC\\obj\\",
+        "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.IOC\\SV.IOC.csproj",
+        "packagesPath": "C:\\Users\\Brayan Capera\\.nuget\\packages\\",
+        "outputPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.IOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Brayan Capera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -333,14 +337,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.BLL\\SV.BLL.csproj"
               },
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DAL\\SV.DAL.csproj"
               },
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj"
               }
             }
           }
@@ -354,7 +358,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -375,24 +380,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj": {
+    "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj",
+        "projectUniqueName": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj",
         "projectName": "SV.Model",
-        "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\obj\\",
+        "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj",
+        "packagesPath": "C:\\Users\\Brayan Capera\\.nuget\\packages\\",
+        "outputPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Brayan Capera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -419,7 +424,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -452,24 +458,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj": {
+    "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj",
+        "projectUniqueName": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj",
         "projectName": "SV.Utility",
-        "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj",
-        "packagesPath": "C:\\Users\\braya\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Utility\\obj\\",
+        "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Utility\\SV.Utility.csproj",
+        "packagesPath": "C:\\Users\\Brayan Capera\\.nuget\\packages\\",
+        "outputPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\braya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Brayan Capera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -485,11 +491,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.DTO\\SV.DTO.csproj"
               },
-              "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj": {
-                "projectPath": "D:\\Documentos\\Brayan\\Estudio desarrollo\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj"
+              "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj": {
+                "projectPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.Model\\SV.Model.csproj"
               }
             }
           }
@@ -503,7 +509,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -530,7 +537,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

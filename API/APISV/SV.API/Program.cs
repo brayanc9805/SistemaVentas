@@ -4,7 +4,7 @@ namespace SV.API
 {
     public class Program
     {
-        //TODo empezar video 14: https://www.youtube.com/watch?v=XpPCUNznlPY&list=PLx2nia7-PgoA1-y-qrxCQii0-EmC4JZ5e&index=14
+        //Proyecto finalizado https://www.youtube.com/watch?v=pQsO2-thpz8&list=PLx2nia7-PgoA1-y-qrxCQii0-EmC4JZ5e&index=16
 
         public static void Main(string[] args)
         {

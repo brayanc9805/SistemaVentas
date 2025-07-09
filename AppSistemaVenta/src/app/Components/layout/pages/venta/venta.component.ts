@@ -91,8 +91,8 @@ export class VentaComponent implements OnInit {
       idProducto: this.productoSeleccionado.idProducto,
       descripcionProducto: this.productoSeleccionado.nombre,
       cantidad: _cantidad,
-      precioTexto: String(_precio.toFixed(2)),
-      totalTexto: String(_total.toFixed(2))
+      precioTexto: String(_precio),
+      totalTexto: String(_total)
     })
 
     this.datosDetalleVenta = new _MatTableDataSource(this.listaProductoParaVenta);

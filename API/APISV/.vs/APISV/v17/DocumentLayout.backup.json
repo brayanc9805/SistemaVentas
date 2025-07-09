@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|h:\\formatos brayan\\proyectos\\sistemaventas\\api\\apisv\\sv.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|solutionrelative:sv.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|h:\\formatos brayan\\proyectos\\sistemaventas\\api\\apisv\\sv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|solutionrelative:sv.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|h:\\formatos brayan\\proyectos\\sistemaventas\\api\\apisv\\sv.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|solutionrelative:sv.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D97AC0E6-5FBF-4A16-BAC5-6D9740CEC43A}|SV.API\\SV.API.csproj|h:\\formatos brayan\\proyectos\\sistemaventas\\api\\apisv\\sv.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,20 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 430,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VentaController.cs",
               "DocumentMoniker": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Controllers\\VentaController.cs",
               "RelativeDocumentMoniker": "SV.API\\Controllers\\VentaController.cs",
               "ToolTip": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Controllers\\VentaController.cs",
               "RelativeToolTip": "SV.API\\Controllers\\VentaController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T21:28:39.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T21:28:39.893Z"
             },
             {
               "$type": "Document",
@@ -55,18 +54,17 @@
               "RelativeToolTip": "SV.API\\Controllers\\ProductoController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAUwFMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:04:21.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T20:04:21.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
               "RelativeDocumentMoniker": "SV.API\\Program.cs",
               "ToolTip": "H:\\Formatos Brayan\\Proyectos\\SistemaVentas\\API\\APISV\\SV.API\\Program.cs",
               "RelativeToolTip": "SV.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:37:52.146Z",
               "EditorCaption": ""
